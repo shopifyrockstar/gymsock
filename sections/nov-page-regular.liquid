@@ -1,0 +1,77 @@
+<div class="PageRegular mt-80 mt-xs-40">
+  {% if section.settings.title != blank %}
+  <div class="block-page-regular text-center">
+    <div class="title_block">
+      <span>{{ section.settings.title | escape }}</span>
+      {% if section.settings.subheading != blank %}
+      <span class="sub_title">{{ section.settings.subheading | escape }}</span>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% for block in section.blocks %}
+    {% if block.type == 'image_text' %}
+      <div class="page-regular-image-text {% if block.settings.class != blank %} {{ block.settings.class }}{% endif %}">
+        <div class="page-regular-img page-regular-img-item">
+          <div class="respone_image">
+            {% assign img_url = block.settings.img | img_url: '1x1' | replace: '_1x1.', '_{width}x.' %}
+            <img class="article__list-image lazyload"
+                 src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 13 10'%3E%3C/svg%3E"
+                 data-src="{{ img_url }}"
+                 data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048]"
+                 data-aspectratio="{{ block.settings.img.aspect_ratio }}"
+                 data-sizes="auto"
+                 alt="">
+          </div>
+        </div>
+        <div class="page-regular-text page-regular-img-item">
+          	{{ block.settings.text_content }}
+        </div>
+  	  </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+{% schema %}
+{
+  "name": "Custom Page Regular",
+  "class": "index-section page-regular",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Heading"
+    },
+    {
+      "type": "text",
+      "id": "subheading",
+      "label": "Sub heading"
+    }
+  ],
+  "blocks": [
+	  {
+        "type": "image_text",
+        "name": "Image with Text",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "img",
+            "label": "Image"
+          },
+          {
+            "type": "html",
+            "id": "text_content",
+            "label": "Text",
+            "default": "<p>Text content here!</p>"
+          },
+		  {
+            "type": "text",
+            "id": "class",
+            "label": "Class"
+          }
+        ]
+      }
+  ]
+}
+{% endschema %}

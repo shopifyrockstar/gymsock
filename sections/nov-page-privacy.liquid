@@ -1,0 +1,30 @@
+<div class="PageDefault mt-80 mt-xs-40">
+    {% if section.settings.title != blank %}
+      <div class="page-default text-center">
+        <div class="title_block">
+          <span>{{ section.settings.title | escape }}</span>
+          {% if section.settings.subheading != blank %}
+          <span class="sub_title">{{ section.settings.subheading | escape }}</span>
+          {% endif %}
+        </div>
+      </div>
+    {% endif %}
+</div>
+{% schema %}
+{
+    "name": "vinova page Default",
+    "class": "index-section page-privacy",
+    "settings": [
+        {
+            "type": "text",
+            "id": "title",
+            "label": "Heading"
+        },
+        {
+            "type": "text",
+            "id": "subheading",
+            "label": "Sub heading"
+        }
+    ]
+}
+{% endschema %}

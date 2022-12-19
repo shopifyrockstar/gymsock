@@ -1,0 +1,16 @@
+<div class="page-width">
+  {% include 'nov-breadcrumb' %}
+  <div class="nov__page">
+  <div class="container mt-80 mt-xs-40">
+    <div class="block-regular-title text-center ">
+      <div class="title_block">
+        <span>{{ page.title }}</span>
+      </div>
+	</div>
+    {% if page.content.size > 0 %}
+      <div class="rte">
+        {{ page.content }}
+      </div>
+    {% endif %}
+  </div>
+</div>

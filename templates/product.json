@@ -1,0 +1,99 @@
+{
+  "sections": {
+    "main": {
+      "type": "nov-product-template",
+      "blocks": {
+        "5b3cbafb-2b7d-43f4-8f5c-82b379e88ddd": {
+          "type": "block_product_features",
+          "settings": {
+            "bpf_title": "Cloud Cushion",
+            "bpf_description": "Multi panel construction for optimum comfort and support",
+            "bpf_img": "shopify:\/\/shop_images\/cloud.png"
+          }
+        },
+        "bbee1b38-7b42-4bef-b65f-3078309c9062": {
+          "type": "block_product_features",
+          "settings": {
+            "bpf_title": "The Right Mix",
+            "bpf_description": "56% Combed Cotton + 41% Polyester + 3% Elastane Blend",
+            "bpf_img": "shopify:\/\/shop_images\/right-mix.png"
+          }
+        },
+        "c9dd756d-72cd-40e7-a5e6-a24a8825cb6c": {
+          "type": "block_product_features",
+          "settings": {
+            "bpf_title": "Mad Calves’ Genetics?",
+            "bpf_description": "Or heck, even if you don’t these make your wheels looks tight!",
+            "bpf_img": "shopify:\/\/shop_images\/genetics.png"
+          }
+        },
+        "10d46a33-381a-4d1e-beb4-cbdf259b81aa": {
+          "type": "block_product_features",
+          "settings": {
+            "bpf_title": "Sock Mindfulness",
+            "bpf_description": "Designed to breathe. Breathe in, breathe out. Namaste.",
+            "bpf_img": "shopify:\/\/shop_images\/mindfulness.png"
+          }
+        },
+        "dfb1c873-c4e0-45ea-8fbd-094713ac7158": {
+          "type": "block_product_features",
+          "settings": {
+            "bpf_title": "Purpose Built",
+            "bpf_description": "For all active lifestyles.... all of them. Including your bear wrangling and \naxe throwing.",
+            "bpf_img": "shopify:\/\/shop_images\/purpose-built.png"
+          }
+        },
+        "e4178b6b-5d51-475c-99b2-e92177f75812": {
+          "type": "block_product_features",
+          "settings": {
+            "bpf_title": "Climate Control",
+            "bpf_description": "Keep your cool, whatever the occasion.",
+            "bpf_img": "shopify:\/\/shop_images\/climate-cooll.png"
+          }
+        }
+      },
+      "block_order": [
+        "5b3cbafb-2b7d-43f4-8f5c-82b379e88ddd",
+        "bbee1b38-7b42-4bef-b65f-3078309c9062",
+        "c9dd756d-72cd-40e7-a5e6-a24a8825cb6c",
+        "10d46a33-381a-4d1e-beb4-cbdf259b81aa",
+        "dfb1c873-c4e0-45ea-8fbd-094713ac7158",
+        "e4178b6b-5d51-475c-99b2-e92177f75812"
+      ],
+      "settings": {
+        "bfs_title": "Foundation Series",
+        "bfs_description": "Harry caught the golden snitch riding a sweet Nimbus 2000. What will you catch in your grey colour way Nimbus socks? New bench PB? Fastest ever mile?",
+        "show_notes": false,
+        "show_quantity_selector": false,
+        "product_swatch_enable": true,
+        "show_share": false,
+        "show_variant_color": true,
+        "show_vendor": false,
+        "show_sku": false,
+        "show_categories": true,
+        "show_tags": false,
+        "show_available": false,
+        "show_des": false,
+        "enable_zoom": true,
+        "show_related": true,
+        "show_description": false,
+        "show_review": false,
+        "show_size_chart": true,
+        "show_payments": false,
+        "title_payments": "Guaranteed safe checkout:",
+        "size_title": "10px",
+        "color_title_payments": "#222222",
+        "time": "",
+        "size_time": "12px",
+        "color_time": "#494949",
+        "truck": "",
+        "size_truck": "12px",
+        "color_truck": "#494949",
+        "background_color": ""
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

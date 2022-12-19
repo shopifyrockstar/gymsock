@@ -1,0 +1,2052 @@
+{
+  "current": {
+    "theme_color_default": "#1a1a1a",
+    "theme_color_primary": "#1a1a1a",
+    "color_body": "#ffffff",
+    "heading_text": "#1a1a1a",
+    "second_heading_text": "#222222",
+    "sub_heading_text": "#282828",
+    "color_body_text": "#1a1a1a",
+    "color_menu": "#041b2d",
+    "color_menu_sticky": "#041b2d",
+    "color_sub_menu": "#666666",
+    "color_title_megamenu": "#1a1a1a",
+    "color_product_item": "rgba(0,0,0,0)",
+    "color_product_name": "#1a1a1a",
+    "color_price": "#9e9e9e",
+    "color_reduced_price": "#bfb9b9",
+    "color_product_icon": "#1a1a1a",
+    "color_badge_new": "#8ac21e",
+    "color_badge_sale": "#ff6868",
+    "color_borders": "#e49322",
+    "color_button": "#ffffff",
+    "color_button_hover": "#e49322",
+    "color_button_text": "#e49322",
+    "type_header_family": "montserrat_n4",
+    "type_base_family": "montserrat_n4",
+    "type_base_size": 14,
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "social_twitter_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/TheGymSock",
+    "social_pinterest_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/thegymsock\/",
+    "social_dribbble_link": "",
+    "social_google_link": "",
+    "social_linkedin_link": "",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "type_sidebar_blog": "sidebar_left",
+    "type_sidebar_article": "sidebar_left",
+    "type_sidebar": "sidebar_hidden",
+    "type_sidebar_product": "thumb_all",
+    "show_newsletter_popup": true,
+    "title_newsletter": "Newsletter",
+    "desc_newsletter": "Just reminders for Fathers Day. Christmas and the occasional sale.",
+    "button_newsletter": "",
+    "notify_newsletter": "Don’t show this popup again",
+    "bg_newsletter": "shopify:\/\/shop_images\/news-letter.jpg",
+    "enable_rtl": false,
+    "show_multiple_currencies": true,
+    "title_currency": "Currency",
+    "supported_currencies": "AUD, AUD | USD, USD | EUR, EUR | GBP, GBP",
+    "key_trend_1": "Foundation Series",
+    "link_1": "shopify:\/\/collections\/all",
+    "key_trend_2": "",
+    "link_2": "#",
+    "key_trend_3": "",
+    "link_3": "#",
+    "key_trend_4": "",
+    "link_4": "#",
+    "breadcrumbs_enable": false,
+    "background_image": "shopify:\/\/shop_images\/breacrumb_index2.jpg",
+    "image_overlay_opacity": 25,
+    "color_text_head": "#ffffff",
+    "title_alignment": "justify-content-center",
+    "time_newproduct": "1",
+    "br_pi": 0,
+    "show_rating": false,
+    "quickview_enable": true,
+    "wishlist_enable": false,
+    "payment_button_enable": false,
+    "img_size": "425x",
+    "img_size_large": "260x",
+    "freeshipping_enable": true,
+    "size_women": "shopify:\/\/shop_images\/size-guide.png",
+    "size_men": "shopify:\/\/shop_images\/size-guide.png",
+    "cart_notes_enable": true,
+    "cart_vendor_enable": false,
+    "ajax_cart_method": "pop_up",
+    "free_shipping": "100",
+    "mini_cart_type": "canvas",
+    "collec_1_name": "Shop Now!",
+    "collec_1": "shopify:\/\/collections\/all",
+    "collec_2_name": "",
+    "collec_2": "#",
+    "collec_3_name": "",
+    "collec_3": "#",
+    "account_type": "canvas",
+    "img_canvas_account": "shopify:\/\/shop_images\/logo.png",
+    "img_canvas_account_link": "#",
+    "favicon": "shopify:\/\/shop_images\/logo.png",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "large",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#e8f3f6",
+    "checkout_heading_font": "Roboto",
+    "checkout_body_font": "Source Sans Pro",
+    "checkout_accent_color": "#e49322",
+    "checkout_button_color": "#e49322",
+    "checkout_error_color": "#ff6d6d",
+    "theme_color_default_orange": "#e49322",
+    "size_text_head": "32px",
+    "color_text_head_hover": "#f08068",
+    "type_header_base_size": 24,
+    "vendor_enable": false,
+    "color_product_addtocart": "#222222",
+    "color_text": "#909090",
+    "theme_color_success": "#046b41",
+    "theme_color_hover": "#fc8f2f",
+    "color_input": "#cccbcb",
+    "color_default": "#000000",
+    "sub_heading_menu": "#222222",
+    "tooltip_enable": "true",
+    "color_body_bg": "#ffffff",
+    "mobile_mainmenu_type": "canvas",
+    "color_sale_text": "#000000",
+    "heading_hover": "#fd6666",
+    "color_small_button": "#878787",
+    "color_small_button_text": "#ffffff",
+    "color_text_field": "#fff",
+    "color_text_field_text": "#000000",
+    "color_icon_font": "#383838",
+    "color_image_overlay_text": "#fff",
+    "color_image_overlay": "#3d4246",
+    "menu_link": "#444444",
+    "show_multiple_language": false,
+    "title_language": "Language:",
+    "color_bg_product": "#f5f5f5",
+    "social_twitter_image": "shopify:\/\/shop_images\/tw_40x_bdf1b78a-35a0-4799-916c-f1d53e9e92b8.png",
+    "social_facebook_image": "shopify:\/\/shop_images\/facebook.png",
+    "social_dribbble_image": "shopify:\/\/shop_images\/dribbble_40x_b118f5e7-4fc5-4827-9b2a-eeabd2a86eb1.png",
+    "social_pinterest_image": "",
+    "social_instagram_image": "shopify:\/\/shop_images\/instagram.png",
+    "social_tumblr_image": "",
+    "social_snapchat_image": "",
+    "social_youtube_image": "",
+    "social_vimeo_image": "",
+    "enable_iconmenumain": false,
+    "icon_menumain_1": "",
+    "icon_menumain_2": "",
+    "icon_menumain_3": "",
+    "icon_menumain_4": "",
+    "icon_menumain_5": "",
+    "icon_menumain_6": "",
+    "icon_menumain_7": "",
+    "icon_menumain_8": "",
+    "icon_menumain_9": "",
+    "icon_menumain_10": "",
+    "sections": {
+      "nov-sidebar": {
+        "type": "nov-sidebar",
+        "blocks": {
+          "1523617300550": {
+            "type": "block_filter",
+            "settings": {
+              "block_class": "",
+              "filter_type": true,
+              "filter_vendor": true,
+              "filter_tags": true,
+              "filter_size": true,
+              "filter_size_value": "S, M, L, XL",
+              "filter_color": true,
+              "filter_color_value": "darkslateblue, gray, red, lightblue, black, orange, honeydew, lightsalmon, white, darkorange, antiquewhite, brown",
+              "filter_price": true,
+              "filter_price_value": "$10 - $20, $20 - $40, $40 - $60, $60 - $80"
+            }
+          }
+        },
+        "block_order": [
+          "1523617300550"
+        ],
+        "settings": {
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "title": "",
+          "subheading": "",
+          "products_per_page": 12,
+          "sort_enable": true,
+          "show_tags": true
+        }
+      },
+      "nov-sidebar-article": {
+        "type": "nov-sidebar-article",
+        "blocks": {
+          "1522144034842": {
+            "type": "block_categories",
+            "settings": {
+              "sidebar_categories_title": "Categories",
+              "sidebar_categories_class": "",
+              "sidebar_categories_menu": "category"
+            }
+          },
+          "1522144043288": {
+            "type": "block_recentpost",
+            "settings": {
+              "block_title": "Recent post",
+              "block_class": "",
+              "number_show": 4,
+              "show_date": true,
+              "show_comment": false,
+              "show_author": false,
+              "show_excerpt": false,
+              "show_more": false
+            }
+          },
+          "1522144057088": {
+            "type": "block_blogtags",
+            "settings": {
+              "block_title": "Blog Tags",
+              "block_class": "",
+              "number_show": 10
+            }
+          }
+        },
+        "block_order": [
+          "1522144034842",
+          "1522144043288",
+          "1522144057088"
+        ],
+        "settings": {
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "grid",
+          "blog_show_author": true,
+          "blog_show_date": true,
+          "blog_show_comment": true,
+          "page_show_list": 5,
+          "page_show_column": 4,
+          "page_show_grid": 3
+        }
+      },
+      "nov-sidebar-detail": {
+        "type": "nov-sidebar-detail",
+        "blocks": {
+          "1522994949788": {
+            "type": "block_categories",
+            "settings": {
+              "sidebar_categories_title": "Categories",
+              "sidebar_categories_class": "",
+              "sidebar_categories_menu": ""
+            }
+          },
+          "1522994844112": {
+            "type": "block_productlist",
+            "settings": {
+              "sidebar_productlist_title": "Best sellers",
+              "sidebar_productlist_class": "",
+              "sidebar_collection": "",
+              "number_show": 3
+            }
+          },
+          "1522994963120": {
+            "type": "block_producttags",
+            "settings": {
+              "block_title": "Product Tags",
+              "block_class": "",
+              "number_show": 20
+            }
+          }
+        },
+        "block_order": [
+          "1522994949788",
+          "1522994844112",
+          "1522994963120"
+        ],
+        "settings": {
+        }
+      },
+      "nov-product-template": {
+        "type": "nov-product-template",
+        "blocks": {
+          "1600059348586": {
+            "type": "block_text",
+            "settings": {
+              "custom_title": "Delivery policy",
+              "custom_content": "<p><strong>Lorem ipsum dolor sit amet<\/strong><\/p>\n<p><br><\/p>\n<p>Vivamus a placerat dolor. Proin ut vehicula mauris. Etiam sagittis augue ipsum. Aliquam vestibulum massa nulla, ullamcorper aliquam diam feugiat vel. Fusce porttitor ultrices ante, posuere vehicula lacus tempor eu. Sed et purus et massa mattis aliquet ac vel dolor. Pellentesque eros lectus, placerat nec finibus ac, lobortis eu risus.<\/p>\n<p><\/p>\n<p>Donec fringilla metus ligula, sit amet fermentum ex laoreet non<\/p>\n<p><br><\/p>\n<p>- Ribbed and double stitched collar and armholes<\/p>\n<p>- High-density fabric for vivid print clarity<\/p>\n<p>- Machine-wash safeSingle right rear button flap pocket<\/p>\n<p>- Products are proudly printed in the United States<\/p>\n<p><br><\/p>\n<p>Curabitur egestas suscipit odio. Nam vitae aliquam dui<\/p>\n<p><\/p>\n<p>in laoreet elit. In posuere augue id velit placerat, vitae porttitor leo aliquet. Aenean non ligula sed lorem eleifend aliquam. Morbi posuere faucibus viverra. Proin ullamcorper, lorem lacinia cursus finibus.<\/p>"
+            }
+          },
+          "1600059475832": {
+            "type": "block_text",
+            "settings": {
+              "custom_title": "Returns & Exchanges Policy",
+              "custom_content": "<p><em><strong>Nullam at mi accumsan, fermentum turpis at, hendrerit tortor<\/strong><\/em><\/p>\n<p><br><\/p>\n<p>Vivamus commodo magna rutrum ipsum convallis luctus. Maecenas sollicitudin tincidunt sem at consectetur. Sed ligula elit, sodales feugiat porttitor non, commodo in ipsum. Donec vehicula orci et pharetra laoreet. Donec feugiat, nibh ac ornare hendrerit, dui augue semper felis, a finibus dui felis quis magna. Curabitur a ligula purus. Suspendisse vestibulum lorem non tellus aliquet blandit.<\/p>\n<p>Proin cursus sollicitudin scelerisque. Donec ultrices elit quis magna lobortis porttitor. Quisque et consectetur mauris. Sed facilisis malesuada ante eget blandit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque rutrum mattis ex ac sagittis. Nulla convallis euismod ipsum, a mollis sapien fringilla eget. Nam dignissim ornare nisi, in bibendum nibh auctor id.<\/p>\n<p>Quisque dictum justo id velit dapibus, id mollis diam tincidunt. Donec luctus tincidunt ultrices. Sed condimentum ante accumsan, sagittis lorem quis, dictum enim. Nam et facilisis odio. Ut iaculis dui non interdum accumsan. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lacus sem, molestie non convallis nec, tristique a lacus. Proin eget lacus semper dui imperdiet accumsan. Morbi sagittis erat ac justo congue, a ornare tortor mollis. Aenean eu vulputate diam. Praesent suscipit ex non elit finibus ultricies.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1600059348586",
+          "1600059475832"
+        ],
+        "settings": {
+          "show_notes": true,
+          "show_quantity_selector": true,
+          "product_swatch_enable": true,
+          "show_share": true,
+          "show_variant_color": true,
+          "show_vendor": false,
+          "show_sku": true,
+          "show_categories": true,
+          "show_tags": true,
+          "show_available": false,
+          "show_des": true,
+          "enable_zoom": true,
+          "show_related": true,
+          "show_description": true,
+          "show_review": true,
+          "show_size_chart": false,
+          "show_payments": true,
+          "title_payments": "Guaranteed safe checkout:",
+          "size_title": "10px",
+          "color_title_payments": "#222222",
+          "payments": "shopify:\/\/shop_images\/payment_detail.png",
+          "time": "Orders ship within 5 to 10 business days.",
+          "size_time": "12px",
+          "color_time": "#494949",
+          "truck": "<strong>Hoorey<\/strong> ! This item ships free to the US",
+          "size_truck": "12px",
+          "color_truck": "#494949",
+          "background_color": ""
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "1523246702524": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          },
+          "1523246716784": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "1523246702524",
+          "1523246716784"
+        ],
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "grid": "4"
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_notes_enable": true
+        }
+      },
+      "nov-page404": {
+        "type": "nov-page404",
+        "settings": {
+          "title": "Page Not found",
+          "subheading": "We’re sorry — something has gone wrong on our end.",
+          "desc": "If difficulties persist, please contact the System Administrator of this site and report the error below..",
+          "background_color": "#00426f",
+          "image": "shopify:\/\/shop_images\/404-1.png"
+        }
+      },
+      "nov-map": {
+        "type": "nov-map",
+        "settings": {
+          "iframe_map": "https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d4082.7742465747338!2d-79.38287617561478!3d43.64905556573276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d2a57d767f%3A0x935ab2eb9fd5fb31!2sFirst%20Canadian%20Place!5e0!3m2!1svi!2s!4v1591603052999!5m2!1svi!2s",
+          "has_fullwidth": false,
+          "class": "",
+          "distance_top": "30px",
+          "distance_bottom": "30px"
+        }
+      },
+      "nov-slideshow": {
+        "type": "nov-slideshow",
+        "blocks": {
+          "1528274241275": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "caption_1": "<i>Headlight & Tire<\/i>",
+              "color_cap1": "#ffffff",
+              "cap_animate_1": "fadeInLeft",
+              "caption_2": "Only $300",
+              "color_cap2": "#ffffff",
+              "cap_animate_2": "fadeInRight",
+              "caption_3": "Lorem ipsum dolor sit amet, consectetur adipiscing \nelit integer pellentesque ut velit",
+              "color_cap3": "#ffffff",
+              "cap_animate_3": "fadeInRight",
+              "slider_link": "#",
+              "text_align": "left"
+            }
+          },
+          "1528433230156": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "caption_1": "<i>Brake Systems<\/i>",
+              "color_cap1": "#ffffff",
+              "cap_animate_1": "fadeInDown",
+              "caption_2": "Best Choice",
+              "color_cap2": "#ffffff",
+              "cap_animate_2": "fadeInLeft",
+              "caption_3": "Lorem ipsum dolor sit amet, consectetur adipiscing \nelit integer pellentesque ut velit",
+              "color_cap3": "#ffffff",
+              "cap_animate_3": "fadeInUp",
+              "slider_link": "#",
+              "text_align": "left"
+            }
+          },
+          "1528433236151": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "caption_1": "<i>Headlights<\/i>",
+              "color_cap1": "#ff1e1e",
+              "cap_animate_1": "fadeInLeft",
+              "caption_2": "Best Choice",
+              "color_cap2": "#ffffff",
+              "cap_animate_2": "fadeInDown",
+              "caption_3": "Lorem ipsum dolor sit amet, consectetur adipiscing \nelit integer pellentesque ut velit",
+              "color_cap3": "#ffffff",
+              "cap_animate_3": "zoomIn",
+              "slider_link": "#",
+              "text_align": "left"
+            }
+          }
+        },
+        "block_order": [
+          "1528274241275",
+          "1528433230156",
+          "1528433236151"
+        ],
+        "settings": {
+          "autoplay": false,
+          "autoplay_speed": "4000",
+          "arrows": false,
+          "has_fullwidth": true,
+          "distance_top": "0",
+          "distance_bottom": "40px"
+        }
+      },
+      "nov-gallery-image": {
+        "type": "nov-gallery-image",
+        "blocks": {
+          "1529143775247": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "cta_label": "",
+              "link": "",
+              "class": ""
+            }
+          }
+        },
+        "block_order": [
+          "1529143775247"
+        ],
+        "settings": {
+          "title": "Vinova Products Slider",
+          "subheading": "Subtitle from happy customers",
+          "title_alignment": "text-left",
+          "spacing": "0",
+          "background_color": "",
+          "has_fullwidth": true,
+          "class_section": "",
+          "distance_top": "30px",
+          "distance_bottom": "30px"
+        }
+      },
+      "nov-blog": {
+        "type": "nov-blog",
+        "settings": {
+          "title": "Latest posts",
+          "subheading": "",
+          "title_alignment": "text-left",
+          "blog": "news",
+          "type_option": "slider",
+          "grid_number": 1,
+          "limit": 8,
+          "spacing": 5,
+          "show_image": true,
+          "blog_show_comments": false,
+          "blog_show_author": false,
+          "blog_show_date": true,
+          "blog_show_excerpt": false,
+          "show_view_all": false,
+          "show_dots": true,
+          "show_nav": false,
+          "has_fullwidth": true,
+          "background_color": "",
+          "background_image": "",
+          "class": "",
+          "distance_top": "0",
+          "distance_bottom": "80px"
+        }
+      },
+      "nov-testimonials": {
+        "type": "nov-testimonials",
+        "blocks": {
+          "1528359746051": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiu smod tempor incidi dunt ut labore et dolore magna aliqua<\/p>",
+              "info_other": "Hairstyle"
+            }
+          },
+          "1528359357351": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiu smod tempor incidi dunt ut labore et dolore magna aliqua<\/p>",
+              "info_other": "Australia"
+            }
+          },
+          "1528359736752": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiu smod tempor incidi dunt ut labore et dolore magna aliqua<\/p>",
+              "info_other": "American"
+            }
+          }
+        },
+        "block_order": [
+          "1528359746051",
+          "1528359357351",
+          "1528359736752"
+        ],
+        "settings": {
+          "title": "",
+          "subheading": "",
+          "title_alignment": "text-left",
+          "spacing": "",
+          "show_avatar": true,
+          "full_width": true,
+          "background_color": "#f1efe8",
+          "background_image": "",
+          "class": "",
+          "distance_top": "30px",
+          "distance_bottom": "30px"
+        }
+      },
+      "nov-manufacture": {
+        "type": "nov-manufacture",
+        "blocks": {
+          "1528360735012": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "link": ""
+            }
+          },
+          "1528361007518": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "link": ""
+            }
+          },
+          "1528361022544": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "link": ""
+            }
+          },
+          "1528361033903": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "link": ""
+            }
+          },
+          "1528361042661": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "link": ""
+            }
+          },
+          "1528361050747": {
+            "type": "logo_image",
+            "settings": {
+              "image": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1528360735012",
+          "1528361007518",
+          "1528361022544",
+          "1528361033903",
+          "1528361042661",
+          "1528361050747"
+        ],
+        "settings": {
+          "limit": 8,
+          "spacing": "10",
+          "has_fullwidth": true,
+          "background_color": "",
+          "background_image": "",
+          "class": "",
+          "distance_top": "30px",
+          "distance_bottom": "30px"
+        }
+      },
+      "nov-newsletter": {
+        "type": "nov-newsletter",
+        "settings": {
+          "section_title": "Newsletter",
+          "color_title": "",
+          "subheading": "Sign up for newsletter to receive special offers",
+          "color_subheading": "",
+          "icon_newsletter": "",
+          "full_width": false,
+          "background_color": "",
+          "background_image": "",
+          "distance_top": "30px",
+          "distance_bottom": "30px"
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_image_feature": true,
+          "blog_show_author": true,
+          "blog_show_date": true,
+          "show_share_buttons": true
+        }
+      },
+      "nov-page-contact": {
+        "type": "nov-page-contact",
+        "settings": {
+          "iframe_map": "",
+          "t_contact": "Call us",
+          "st_contact": "Send us a text & an ambassador will respond when available.",
+          "contact": "1-814-251-9966",
+          "t_address": "Address",
+          "addr": "PO Box 1622 Vissaosang Street West",
+          "maill": "info@example.com",
+          "t_open": "WE'RE OPEN",
+          "st_open": "Our store has re-opened for shopping, exchanges",
+          "time_open": "Every day 11am to 7pm",
+          "social": true,
+          "t_s": "",
+          "title_contact_message": "I know we just met, but I think we are vibing.",
+          "subheading_contact_message": "<p>You can't call us (it's not 2002), so hit us up at hello@gymsock.com<\/p>"
+        }
+      },
+      "nov-header": {
+        "type": "nov-header",
+        "blocks": {
+          "73393400-4d45-448e-b578-d87c876cb9fa": {
+            "type": "text",
+            "settings": {
+              "novmenu_item": "Pages",
+              "submenu_width": "",
+              "submenu_full_width": true,
+              "novmenu_menu_enable": true,
+              "novmenu_xl": "col-xl-8",
+              "novmenu_lg": "col-lg-8",
+              "submenu_xl": "col-xl-4",
+              "submenu_lg": "col-lg-4",
+              "novmenu_banner_enable1": true,
+              "banner_1_xl": "col-xl-4",
+              "banner_1_lg": "col-lg-4",
+              "image_size1": "445x350",
+              "novmenu_banner_link1": "#",
+              "class_bn1": "mt-sm-30",
+              "novmenu_banner_enable2": false,
+              "banner_2_xl": "col-xl-4",
+              "banner_2_lg": "col-lg-4",
+              "image_size2": "255x300",
+              "novmenu_banner_link2": "",
+              "class_bn2": "",
+              "novmenu_banner_enable3": false,
+              "banner_3_xl": "col-xl-4",
+              "banner_3_lg": "col-lg-4",
+              "image_size3": "255x300",
+              "novmenu_banner_link3": "",
+              "class_bn3": "",
+              "collection_enable": false,
+              "collection_xl": "col-xl-3",
+              "collection_lg": "col-lg-3",
+              "name_collec_1": "Best Sellers",
+              "link_1": "",
+              "name_collec_2": "New Arrival",
+              "link_2": "",
+              "name_collec_3": "Top Trending",
+              "link_3": "",
+              "name_collec_4": "Top Trending",
+              "link_4": "",
+              "name_collec_5": "Denim Collection",
+              "link_5": "",
+              "product_enable": false,
+              "product_xl": "col-xl-4",
+              "product_lg": "col-lg-4",
+              "title_product": "Featured Product",
+              "product_1": "",
+              "product_2": "",
+              "product_3": "",
+              "autoplay": true,
+              "show_dots": true
+            }
+          },
+          "0c786e3e-f24d-46da-ab9b-4ec28c814671": {
+            "type": "text",
+            "settings": {
+              "novmenu_item": "Men's",
+              "submenu_width": "900",
+              "submenu_full_width": true,
+              "novmenu_menu_enable": true,
+              "novmenu_xl": "col-xl-6",
+              "novmenu_lg": "col-lg-6",
+              "submenu_xl": "col-xl-6",
+              "submenu_lg": "col-lg-6",
+              "novmenu_banner_enable1": false,
+              "banner_1_xl": "col-xl-3",
+              "banner_1_lg": "col-lg-3",
+              "image_size1": "255x300",
+              "novmenu_banner_link1": "#",
+              "class_bn1": "",
+              "novmenu_banner_enable2": false,
+              "banner_2_xl": "col-xl-4",
+              "banner_2_lg": "col-lg-4",
+              "image_size2": "255x300",
+              "novmenu_banner_link2": "",
+              "class_bn2": "",
+              "novmenu_banner_enable3": false,
+              "banner_3_xl": "col-xl-4",
+              "banner_3_lg": "col-lg-4",
+              "image_size3": "255x300",
+              "novmenu_banner_link3": "",
+              "class_bn3": "",
+              "collection_enable": true,
+              "collection_xl": "col-xl-3",
+              "collection_lg": "col-lg-3",
+              "name_collec_1": "Best Sellers",
+              "link_1": "#",
+              "name_collec_2": "New Arrival",
+              "link_2": "#",
+              "name_collec_3": "Top Trending",
+              "link_3": "#",
+              "name_collec_4": "Top Trending",
+              "link_4": "#",
+              "name_collec_5": "Denim Collection",
+              "link_5": "#",
+              "product_enable": true,
+              "product_xl": "col-xl-2",
+              "product_lg": "col-lg-3",
+              "title_product": "Featured Product",
+              "product_1": "adidas-trainers-in-white",
+              "product_2": "blue-denim-cargo-short",
+              "product_3": "checkered-sweater",
+              "autoplay": true,
+              "show_dots": true
+            }
+          },
+          "9df9c4e5-e744-4578-b672-1acdb3128c04": {
+            "type": "text",
+            "settings": {
+              "novmenu_item": "Women's",
+              "submenu_width": "",
+              "submenu_full_width": true,
+              "novmenu_menu_enable": true,
+              "novmenu_xl": "col-xl-6",
+              "novmenu_lg": "col-lg-6",
+              "submenu_xl": "col-xl-6",
+              "submenu_lg": "col-lg-6",
+              "novmenu_banner_enable1": true,
+              "banner_1_xl": "col-xl-3",
+              "banner_1_lg": "col-lg-3",
+              "image_size1": "330x586",
+              "novmenu_banner_link1": "",
+              "class_bn1": "",
+              "novmenu_banner_enable2": false,
+              "banner_2_xl": "col-xl-4",
+              "banner_2_lg": "col-lg-4",
+              "image_size2": "255x300",
+              "novmenu_banner_link2": "",
+              "class_bn2": "",
+              "novmenu_banner_enable3": false,
+              "banner_3_xl": "col-xl-4",
+              "banner_3_lg": "col-lg-4",
+              "image_size3": "255x300",
+              "novmenu_banner_link3": "",
+              "class_bn3": "",
+              "collection_enable": true,
+              "collection_xl": "col-xl-3",
+              "collection_lg": "col-lg-3",
+              "name_collec_1": "Best Sellers",
+              "link_1": "",
+              "name_collec_2": "New Arrival",
+              "link_2": "",
+              "name_collec_3": "Top Trending",
+              "link_3": "",
+              "name_collec_4": "Top Trending",
+              "link_4": "",
+              "name_collec_5": "Denim Collection",
+              "link_5": "",
+              "product_enable": false,
+              "product_xl": "col-xl-2",
+              "product_lg": "col-lg-3",
+              "title_product": "Featured Product",
+              "product_1": "",
+              "product_2": "",
+              "product_3": "",
+              "autoplay": true,
+              "show_dots": true
+            }
+          }
+        },
+        "block_order": [
+          "73393400-4d45-448e-b578-d87c876cb9fa",
+          "0c786e3e-f24d-46da-ab9b-4ec28c814671",
+          "9df9c4e5-e744-4578-b672-1acdb3128c04"
+        ],
+        "settings": {
+          "background_color": "rgba(0,0,0,0)",
+          "background_color_sticky": "#ffffff",
+          "logo_pc": "shopify:\/\/shop_images\/gymsock-new-logo.png",
+          "logo_width": 48,
+          "logo_mb": "shopify:\/\/shop_images\/gymsock-new-logo.png",
+          "text_tb": "",
+          "c_text_tb": "#ffffff",
+          "background_tb": "#e49322",
+          "stickymenu": true,
+          "novmenu_enable": true,
+          "show_icons": true,
+          "main_linklist": "main-menu"
+        }
+      },
+      "nov-footer": {
+        "type": "nov-footer",
+        "blocks": {
+          "26727409-ea44-4d0c-95ab-2ab89aa47139": {
+            "type": "block_newsletter",
+            "settings": {
+              "block_title": "No stinky sock spam!",
+              "social": true,
+              "newsletter_des": "Just reminders for Fathers Day. Christmas and the occasional sale.",
+              "block_class": "mt-md-40 mt-xs-0",
+              "grid_xl": "col-xl-3",
+              "grid": "col-lg-6",
+              "grid_tablet": "col-md-8",
+              "grid_mobile": "col-sm-12",
+              "grid_mobiles": "col-12"
+            }
+          },
+          "d36313d8-ca17-4f84-ab7f-425e6388754b": {
+            "type": "block_html",
+            "settings": {
+              "block_title": "",
+              "html_content": "",
+              "block_class": "",
+              "grid_xl": "col-xl-3",
+              "grid": "col-lg-3",
+              "grid_tablet": "col-md-3",
+              "grid_mobile": "col-sm-3",
+              "grid_mobiles": "col-3"
+            }
+          },
+          "3805873a-d61d-41bc-9342-6f8c9ca6208d": {
+            "type": "block_menu",
+            "settings": {
+              "menu_title": "USEFUL STUFF",
+              "menu_handle": "useful-stuff",
+              "block_class": "",
+              "grid_xl": "col-xl-3",
+              "grid": "col-lg-2",
+              "grid_tablet": "col-md-4",
+              "grid_mobile": "col-sm-4",
+              "grid_mobiles": "col-12"
+            }
+          },
+          "0e1a8c98-1f65-4c07-b876-3c2d3c49f9c4": {
+            "type": "block_menu",
+            "settings": {
+              "menu_title": "NAVIGATION",
+              "menu_handle": "navigation",
+              "block_class": "",
+              "grid_xl": "col-xl-3",
+              "grid": "col-lg-2",
+              "grid_tablet": "col-md-4",
+              "grid_mobile": "col-sm-4",
+              "grid_mobiles": "col-12"
+            }
+          }
+        },
+        "block_order": [
+          "26727409-ea44-4d0c-95ab-2ab89aa47139",
+          "d36313d8-ca17-4f84-ab7f-425e6388754b",
+          "3805873a-d61d-41bc-9342-6f8c9ca6208d",
+          "0e1a8c98-1f65-4c07-b876-3c2d3c49f9c4"
+        ],
+        "settings": {
+          "color_t": "#ffffff",
+          "color": "#aeaeae",
+          "background_color": "#1a1a1a",
+          "show_ft": false,
+          "tt_info1": "Store",
+          "info1": "128 New York . New York",
+          "tt_info2": "hotline",
+          "info2": "0123+ 12345678910",
+          "tt_info3": "Email",
+          "info3": "contact@gmail.com",
+          "copyright": "@ 2022 THE GYM SOCK",
+          "bg_copy": "#1a1a1a"
+        }
+      },
+      "nov-policy": {
+        "type": "nov-policy",
+        "blocks": {
+          "1577775924282": {
+            "type": "item_policy",
+            "settings": {
+              "policy_icon": "",
+              "title_policy": "Free Delivery From over order $ 250",
+              "desc_policy": ""
+            }
+          },
+          "1577775930456": {
+            "type": "item_policy",
+            "settings": {
+              "policy_icon": "",
+              "title_policy": "Money back GUARANTEED",
+              "desc_policy": ""
+            }
+          },
+          "1577775933242": {
+            "type": "item_policy",
+            "settings": {
+              "policy_icon": "",
+              "title_policy": "cash on delivery From $ 50",
+              "desc_policy": ""
+            }
+          }
+        },
+        "block_order": [
+          "1577775924282",
+          "1577775930456",
+          "1577775933242"
+        ],
+        "settings": {
+          "title": "",
+          "sub_title": "",
+          "has_fullwidth": true,
+          "background_color": "",
+          "background_image": "",
+          "class": "",
+          "distance_top": "18px",
+          "distance_bottom": "16px"
+        }
+      },
+      "password-header": {
+        "type": "password-header",
+        "settings": {
+          "logo_max_width": "300",
+          "header": "Coming Soon"
+        }
+      },
+      "password-content": {
+        "type": "password-content",
+        "settings": {
+          "newsletter_enable": true,
+          "newsletter_form_heading": "Be the first to know when we launch.",
+          "newsletter_placeholder": "Email address",
+          "newsletter_button_text": "Notify me"
+        }
+      },
+      "password-footer": {
+        "type": "password-footer",
+        "settings": {
+          "show_share_buttons": true,
+          "social_message": "Spread the word"
+        }
+      },
+      "nov-page-size-guide": {
+        "type": "nov-page-size-guide",
+        "blocks": {
+          "1598498117201": {
+            "type": "detail_chart",
+            "settings": {
+              "title_detail": "SLEEVE",
+              "desc_detail": "Measure from shoulder tip to cuff with a gentle bend in the arm."
+            }
+          },
+          "1598498126123": {
+            "type": "detail_chart",
+            "settings": {
+              "title_detail": "SHOULDER",
+              "desc_detail": "Measure from shoulder tip to shoulder tip across the back."
+            }
+          },
+          "1598498138539": {
+            "type": "detail_chart",
+            "settings": {
+              "title_detail": "BUST",
+              "desc_detail": "Measure around the fullest part of your bust."
+            }
+          },
+          "1598498141361": {
+            "type": "detail_chart",
+            "settings": {
+              "title_detail": "WAIST",
+              "desc_detail": "The natural waist is found by measuring the slimmmest part of the waist."
+            }
+          },
+          "1598498143865": {
+            "type": "detail_chart",
+            "settings": {
+              "title_detail": "TROUSER RISE",
+              "desc_detail": "Measure from your natural waist line (centre front), going through your legs to your natural waist line at centre back."
+            }
+          },
+          "1598498145914": {
+            "type": "detail_chart",
+            "settings": {
+              "title_detail": "HIP",
+              "desc_detail": "Measure around the fullest part of your hip, normally 2-3cm below the natural waistline."
+            }
+          },
+          "1598498147840": {
+            "type": "detail_chart",
+            "settings": {
+              "title_detail": "INSIDE LEG",
+              "desc_detail": "Measure from top of inside leg at crotch to ankle bone."
+            }
+          }
+        },
+        "block_order": [
+          "1598498117201",
+          "1598498126123",
+          "1598498138539",
+          "1598498141361",
+          "1598498143865",
+          "1598498145914",
+          "1598498147840"
+        ],
+        "settings": {
+          "title": "Size Guide",
+          "subheading": "Please note this is for reference only. Please refer to the product description for a more accurate size guidance.",
+          "image_detail_chart": "shopify:\/\/shop_images\/size_guide.jpg"
+        }
+      },
+      "nov-page-faqs": {
+        "type": "nov-page-faqs",
+        "blocks": {
+          "1600049089505": {
+            "type": "faq",
+            "settings": {
+              "item_title": "Can I track my order?",
+              "item_content": "<p>Absolutely. We attach GPS trackers to all our carrier pigeons who are trusted with the careful delivery of your socks! You will be sent an email that contains all the information you need to track your super important delivery!<\/p>"
+            }
+          },
+          "1600049113929": {
+            "type": "faq",
+            "settings": {
+              "item_title": "Do you really use carrier pigeons to transport socks?",
+              "item_content": "<p>Sadly we do not. However, we do use the latest and greatest and safest methods to get your socks to your door!<\/p>"
+            }
+          },
+          "1600049126585": {
+            "type": "faq",
+            "settings": {
+              "item_title": "How long will my order take to arrive?",
+              "item_content": "<p>This really does depend on where you live. The shipping estimates below will give you an idea of when you (and your feet) should expect your Gym Socks so you can plan celebrations accordingly.<\/p>\n\n<p><i>Australian Domestic<\/i> Typically 1-2 business days. However, due to COVID-19, Australian orders may take up to a week.<\/p>\n\n<p><i>New Zealand<\/i> Typically 2-3 business days. However, due to COVID-19, NZ orders may take up to two weeks.<\/p>\n\n<p><i>All other international customers:<\/i> Typically 10-14 business days. However, due to COVID-19, international orders may take up to four weeks.<\/p>"
+            }
+          },
+          "1600049137018": {
+            "type": "faq",
+            "settings": {
+              "item_title": "Can I change or cancel my order once I've placed it?",
+              "item_content": "<p>If you’ve made a mistake with your order or need to change something, please email hello@gymsock.com with your order details as soon as possible and we will try and help. Unfortunately once the order has been processed, it's yours. However, please check our returns and refunds policy <a href=\"#\"><u><strong>here<\/strong><\/u><\/a>.<\/p>"
+            }
+          },
+          "1600049150025": {
+            "type": "faq",
+            "settings": {
+              "item_title": "What’s the go with refunds?",
+              "item_content": "<p>We will give you a 30 day money-back guarantee from the time you receive the goods in the (unbelievable case) that you are not 100% satisfied with the goods. Please email us at <a href=\"mailto:hello@gymsock.com\"><u>hello@gymsock.com<\/u><\/a> within that time if you are not satisfied with your purchase so that we can resolve any issues. Please note that the product not helping you beat a great white shark in a swimming race will not be viewed as a legitimate reason for a refund. ..don’t even try this in the first place.<\/p>\n<p>We recommend that you return the product via Registered Post and that you pre pay all postage. You assume any risk of lost, theft or damaged goods during transit and therefore we advise you insure your parcel. <\/p>\n<p>Gym Sock will not be responsible for parcels lost or damaged in transit if you choose not to insure.<\/p>\n<p>To organise a return, please shoot an email to our customer service guru’s via <a href=\"mailto:hello@gymsock.com\"><u>hello@gymsock.com<\/u><\/a><\/p>"
+            }
+          },
+          "1600049160417": {
+            "type": "faq",
+            "settings": {
+              "item_title": "Answer not here?",
+              "item_content": "<p>Or perhaps you just want to say gday? Shoot us an email at <a href=\"mailto:hello@gymsock.com\"><u>hello@gymsock.com<\/u><\/a><\/p>"
+            }
+          },
+          "dc02cb36-29a8-488f-b5bb-8f0f121eceba": {
+            "type": "faq",
+            "settings": {
+              "item_title": "Media Enquiries",
+              "item_content": "<p>You can find us on Instagram and Facebook @thegymsock or you can shoot our team an email <a href=\"mailto:hello@gymsock.com\"><u>hello@gymsock.com<\/u><\/a><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1600049089505",
+          "1600049113929",
+          "1600049126585",
+          "1600049137018",
+          "1600049150025",
+          "1600049160417",
+          "dc02cb36-29a8-488f-b5bb-8f0f121eceba"
+        ],
+        "settings": {
+          "title": "Frequently Asked Questions.",
+          "subheading": "From order tracking to washing instruction, our FAQs are such know-it-alls."
+        }
+      },
+      "nov-page-testimonial": {
+        "type": "nov-page-testimonial",
+        "blocks": {
+          "1600049931659": {
+            "type": "quote",
+            "settings": {
+              "avatar": "shopify:\/\/shop_images\/testirmonial-1.jpg",
+              "author": "WILLIAM JAMES",
+              "job": "CEO - Vinova",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris augue mi, interdum ut purus id, blandit suscipit mauris. Sed tortor lorem, eleifend non urna non, congue bibendum libero. Duis sodales pellentesque sagittis. Fusce venenatis sagittis pellentesque. Nunc eu eros in ipsum semper condimentum in a risus.<\/p>"
+            }
+          },
+          "1600050018619": {
+            "type": "quote",
+            "settings": {
+              "avatar": "shopify:\/\/shop_images\/testirmonial-2.jpg",
+              "author": "WILLIAM JAMES",
+              "job": "CEO - Vinova",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris augue mi, interdum ut purus id, blandit suscipit mauris. Sed tortor lorem, eleifend non urna non, congue bibendum libero. Duis sodales pellentesque sagittis. Fusce venenatis sagittis pellentesque. Nunc eu eros in ipsum semper condimentum in a risus.<\/p>"
+            }
+          },
+          "1600050035985": {
+            "type": "quote",
+            "settings": {
+              "avatar": "shopify:\/\/shop_images\/testirmonial-3.jpg",
+              "author": "WILLIAM JAMES",
+              "job": "CEO - Vinova",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris augue mi, interdum ut purus id, blandit suscipit mauris. Sed tortor lorem, eleifend non urna non, congue bibendum libero. Duis sodales pellentesque sagittis. Fusce venenatis sagittis pellentesque. Nunc eu eros in ipsum semper condimentum in a risus.<\/p>"
+            }
+          },
+          "1600050044617": {
+            "type": "quote",
+            "settings": {
+              "avatar": "shopify:\/\/shop_images\/testirmonial-4.jpg",
+              "author": "WILLIAM JAMES",
+              "job": "CEO - Vinova",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris augue mi, interdum ut purus id, blandit suscipit mauris. Sed tortor lorem, eleifend non urna non, congue bibendum libero. Duis sodales pellentesque sagittis. Fusce venenatis sagittis pellentesque. Nunc eu eros in ipsum semper condimentum in a risus.<\/p>"
+            }
+          },
+          "1600050053794": {
+            "type": "quote",
+            "settings": {
+              "avatar": "shopify:\/\/shop_images\/testirmonial-5.jpg",
+              "author": "WILLIAM JAMES",
+              "job": "CEO - Vinova",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris augue mi, interdum ut purus id, blandit suscipit mauris. Sed tortor lorem, eleifend non urna non, congue bibendum libero. Duis sodales pellentesque sagittis. Fusce venenatis sagittis pellentesque. Nunc eu eros in ipsum semper condimentum in a risus.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1600049931659",
+          "1600050018619",
+          "1600050035985",
+          "1600050044617",
+          "1600050053794"
+        ],
+        "settings": {
+          "title": "Testimonial"
+        }
+      },
+      "nov-page-ourteam": {
+        "type": "nov-page-ourteam",
+        "blocks": {
+          "1600050778859": {
+            "type": "quote",
+            "settings": {
+              "avatar": "shopify:\/\/shop_images\/testirmonial-1.jpg",
+              "author": "William James",
+              "job": "CEO - Vinova",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac pretium metus. Curabi tur velit sem, egestas sit amet dolor nec, tris tique.<\/p>",
+              "hotline": "(+612) 2531 5600",
+              "email": "sonata@domain.com",
+              "show_label": false,
+              "social_twitter_link": "#",
+              "social_facebook_link": "#",
+              "social_pinterest_link": "#",
+              "social_instagram_link": "#",
+              "social_dribbble_link": "#",
+              "social_google_link": "",
+              "social_linkedin_link": "",
+              "social_tumblr_link": "",
+              "social_snapchat_link": "",
+              "social_youtube_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "1600052142747": {
+            "type": "quote",
+            "settings": {
+              "avatar": "shopify:\/\/shop_images\/testirmonial-2.jpg",
+              "author": "Rebecca Jenkins",
+              "job": "Developer",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac pretium metus. Curabi tur velit sem, egestas sit amet dolor nec, tris tique.<\/p>",
+              "hotline": "(+312) 2531 5600",
+              "email": "minimart@domain.com",
+              "show_label": false,
+              "social_twitter_link": "#",
+              "social_facebook_link": "#",
+              "social_pinterest_link": "#",
+              "social_instagram_link": "#",
+              "social_dribbble_link": "",
+              "social_google_link": "",
+              "social_linkedin_link": "",
+              "social_tumblr_link": "",
+              "social_snapchat_link": "",
+              "social_youtube_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "1600052223293": {
+            "type": "quote",
+            "settings": {
+              "avatar": "shopify:\/\/shop_images\/testirmonial-3.jpg",
+              "author": "Alex Nguyen",
+              "job": "Designer",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac pretium metus. Curabi tur velit sem, egestas sit amet dolor nec, tris tique.<\/p>",
+              "hotline": "(+612) 2531 5600",
+              "email": "sonata@domain.com",
+              "show_label": false,
+              "social_twitter_link": "#",
+              "social_facebook_link": "#",
+              "social_pinterest_link": "#",
+              "social_instagram_link": "#",
+              "social_dribbble_link": "",
+              "social_google_link": "",
+              "social_linkedin_link": "",
+              "social_tumblr_link": "",
+              "social_snapchat_link": "",
+              "social_youtube_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "1600052264590": {
+            "type": "quote",
+            "settings": {
+              "avatar": "shopify:\/\/shop_images\/testirmonial-4.jpg",
+              "author": "Lucy Watson",
+              "job": "Designer",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac pretium metus. Curabi tur velit sem, egestas sit amet dolor nec, tris tique.<\/p>",
+              "hotline": "(+612) 2531 5600",
+              "email": "sonata@domain.com",
+              "show_label": false,
+              "social_twitter_link": "#",
+              "social_facebook_link": "#",
+              "social_pinterest_link": "#",
+              "social_instagram_link": "#",
+              "social_dribbble_link": "",
+              "social_google_link": "",
+              "social_linkedin_link": "",
+              "social_tumblr_link": "",
+              "social_snapchat_link": "",
+              "social_youtube_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "1600052287299": {
+            "type": "quote",
+            "settings": {
+              "avatar": "shopify:\/\/shop_images\/testirmonial-5.jpg",
+              "author": "Rebecca Sang",
+              "job": "Account manager",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac pretium metus. Curabi tur velit sem, egestas sit amet dolor nec, tris tique.<\/p>",
+              "hotline": "(+612) 2531 5600",
+              "email": "sonata@domain.com",
+              "show_label": false,
+              "social_twitter_link": "#",
+              "social_facebook_link": "#",
+              "social_pinterest_link": "#",
+              "social_instagram_link": "#",
+              "social_dribbble_link": "",
+              "social_google_link": "",
+              "social_linkedin_link": "",
+              "social_tumblr_link": "",
+              "social_snapchat_link": "",
+              "social_youtube_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "1600052318804": {
+            "type": "quote",
+            "settings": {
+              "avatar": "shopify:\/\/shop_images\/testirmonial-6.jpg",
+              "author": "William Quang",
+              "job": "Account manager",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac pretium metus. Curabi tur velit sem, egestas sit amet dolor nec, tris tique.<\/p>",
+              "hotline": "(+612) 2531 5600",
+              "email": "sonata@domain.com",
+              "show_label": false,
+              "social_twitter_link": "#",
+              "social_facebook_link": "#",
+              "social_pinterest_link": "#",
+              "social_instagram_link": "#",
+              "social_dribbble_link": "",
+              "social_google_link": "",
+              "social_linkedin_link": "",
+              "social_tumblr_link": "",
+              "social_snapchat_link": "",
+              "social_youtube_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "1600052368020": {
+            "type": "quote",
+            "settings": {
+              "avatar": "shopify:\/\/shop_images\/testirmonial-7.jpg",
+              "author": "William Trong",
+              "job": "Support Team",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac pretium metus. Curabi tur velit sem, egestas sit amet dolor nec, tris tique.<\/p>",
+              "hotline": "(+612) 2531 5600",
+              "email": "sonata@domain.com",
+              "show_label": false,
+              "social_twitter_link": "#",
+              "social_facebook_link": "#",
+              "social_pinterest_link": "#",
+              "social_instagram_link": "#",
+              "social_dribbble_link": "",
+              "social_google_link": "",
+              "social_linkedin_link": "",
+              "social_tumblr_link": "",
+              "social_snapchat_link": "",
+              "social_youtube_link": "",
+              "social_vimeo_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1600050778859",
+          "1600052142747",
+          "1600052223293",
+          "1600052264590",
+          "1600052287299",
+          "1600052318804",
+          "1600052368020"
+        ],
+        "settings": {
+          "title": "Meet Our Team",
+          "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac pretium metus. Curabitur velit sem, egestas sit amet dolor nec, tristique vulputate enim. Etiam a lorem libero. In egestas ultricies convallis. Sed iaculis arcu id justo dapibus pharetra. Maecenas et aliquam eros, sit amet volutpat nisi. Duis feugiat mattis maximus. Nulla sollicitudin lorem vitae neque ultricies efficitur. Sed pulvinar tellus enim, non tincidunt nisl imperdiet quis. Maecenas maximus lorem eu justo tincidunt mollis. Quisque vulputate, leo nec elementum rutrum, risus diam rhoncus nulla, ac sollicitudin dui augue convallis sem. Sed sit amet nulla lorem. Ut fringilla justo nisi, nec interdum diam pretium ac. In iaculis porttitor sem.",
+          "spacing": "30",
+          "class": ""
+        }
+      },
+      "nov-page-about-us": {
+        "type": "nov-page-about-us",
+        "blocks": {
+          "1600139715583": {
+            "type": "our_team",
+            "disabled": true,
+            "settings": {
+              "author": "KwangSang",
+              "job": "CEO- Vinova",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac pretium metus. Curabi tur velit sem, egestas sit amet dolor nec, tris tique vulputate enim.<\/p>",
+              "hotline": "(+612) 2531 5600",
+              "email": "sonata@domain.com",
+              "show_label": false,
+              "social_twitter_link": "#",
+              "social_facebook_link": "#",
+              "social_pinterest_link": "#",
+              "social_instagram_link": "#",
+              "social_dribbble_link": "",
+              "social_google_link": "",
+              "social_linkedin_link": "",
+              "social_tumblr_link": "",
+              "social_snapchat_link": "",
+              "social_youtube_link": "",
+              "social_vimeo_link": "",
+              "class": "col-lg-3 col-md-4 col-sm-6 col-xs-12 mb-xs-30"
+            }
+          },
+          "1600139764692": {
+            "type": "our_team",
+            "disabled": true,
+            "settings": {
+              "author": "Rebecca Jenkins",
+              "job": "Developer",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac pretium metus. Curabi tur velit sem, egestas sit amet dolor nec, tris tique vulputate enim.<\/p>",
+              "hotline": "(+612) 2531 5600",
+              "email": "sonata@domain.com",
+              "show_label": false,
+              "social_twitter_link": "#",
+              "social_facebook_link": "#",
+              "social_pinterest_link": "#",
+              "social_instagram_link": "#",
+              "social_dribbble_link": "",
+              "social_google_link": "",
+              "social_linkedin_link": "",
+              "social_tumblr_link": "",
+              "social_snapchat_link": "",
+              "social_youtube_link": "",
+              "social_vimeo_link": "",
+              "class": "col-lg-3 col-md-4 col-sm-6 col-xs-12 mb-xs-30"
+            }
+          },
+          "1600139797724": {
+            "type": "our_team",
+            "disabled": true,
+            "settings": {
+              "author": "Alex Nguyen",
+              "job": "Designer",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac pretium metus. Curabi tur velit sem, egestas sit amet dolor nec, tris tique vulputate enim.<\/p>",
+              "hotline": "(+612) 2531 5600",
+              "email": "sonata@domain.com",
+              "show_label": false,
+              "social_twitter_link": "#",
+              "social_facebook_link": "#",
+              "social_pinterest_link": "#",
+              "social_instagram_link": "#",
+              "social_dribbble_link": "",
+              "social_google_link": "",
+              "social_linkedin_link": "",
+              "social_tumblr_link": "",
+              "social_snapchat_link": "",
+              "social_youtube_link": "",
+              "social_vimeo_link": "",
+              "class": "col-lg-3 col-md-4 col-sm-6 col-xs-12"
+            }
+          },
+          "1600139823748": {
+            "type": "our_team",
+            "disabled": true,
+            "settings": {
+              "author": "Lucy Watson",
+              "job": "Developer",
+              "decs": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac pretium metus. Curabi tur velit sem, egestas sit amet dolor nec, tris tique vulputate enim.<\/p>",
+              "hotline": "(+612) 2531 5600",
+              "email": "sonata@domain.com",
+              "show_label": false,
+              "social_twitter_link": "#",
+              "social_facebook_link": "#",
+              "social_pinterest_link": "#",
+              "social_instagram_link": "#",
+              "social_dribbble_link": "",
+              "social_google_link": "",
+              "social_linkedin_link": "",
+              "social_tumblr_link": "",
+              "social_snapchat_link": "",
+              "social_youtube_link": "",
+              "social_vimeo_link": "",
+              "class": "col-lg-3 col-md-4 col-sm-6 col-xs-12 mt-md-30"
+            }
+          },
+          "cf42513a-3891-45b8-a20e-7d3a2d1c545b": {
+            "type": "image",
+            "settings": {
+              "img": "shopify:\/\/shop_images\/About_Us.png"
+            }
+          },
+          "138397a0-77e1-4d40-a949-0d76218d8600": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text_content": "<strong>G’day,<\/strong> I’m Sparvs. Founder and CEO of <strong>Gym Sock<\/strong>. I’m a bloke from South Australia who loves donuts, Brazilian jiu jitsu, surfing and slinging some dumbbells around. I also love socks.",
+              "class": ""
+            }
+          },
+          "602de92d-ec8d-4d96-988c-06b6dc63f845": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text_content": "<strong>Gym Sock<\/strong> was born out of my thirst for knowledge in the health and wellness scape. My quest for knowledge had an unanticipated collision with my love of quality athletic sportswear. I discovered a giant void in the market for high quality, value priced socks which delivered on comfort, durability, support and aesthetics.",
+              "class": ""
+            }
+          },
+          "524f501e-90fc-4235-9358-e5dbdc91cd0d": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text_content": "Starting in my back-shed, <strong>Gym Sock<\/strong>, through (literally) years of trial and error, experimentation and product trial is so stoked to finally share with you our products.",
+              "class": ""
+            }
+          },
+          "d74b1389-85f2-420a-a301-b03cfc20f13b": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text_content": "<strong>Gym Sock’s<\/strong> mission is simple, to help everyone put their best foot forward whatever their journey.",
+              "class": ""
+            }
+          }
+        },
+        "block_order": [
+          "1600139715583",
+          "1600139764692",
+          "1600139797724",
+          "1600139823748",
+          "cf42513a-3891-45b8-a20e-7d3a2d1c545b",
+          "138397a0-77e1-4d40-a949-0d76218d8600",
+          "602de92d-ec8d-4d96-988c-06b6dc63f845",
+          "524f501e-90fc-4235-9358-e5dbdc91cd0d",
+          "d74b1389-85f2-420a-a301-b03cfc20f13b"
+        ],
+        "settings": {
+          "title": "A journey of a thousand  begins with a single step.",
+          "subheading": ""
+        }
+      },
+      "1624431670a0cceffc": {
+        "type": "nov-slideshow",
+        "blocks": {
+          "1624431670a0cceffc-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/homepage1.png",
+              "caption_1": "PUT YOUR<br>BEST FOOT<br>FORWARD",
+              "color_cap1": "#ffffff",
+              "fz_cap1_lg": "80px",
+              "fz_cap1_1200": "60px",
+              "fz_cap1_md": "40px",
+              "fz_cap1_sm": "35px",
+              "fz_cap1_xs": "30px",
+              "cap_animate_1": "fadeInLeft",
+              "caption_2": "Congratulations, you’re about to be paired<br>with your solemate.",
+              "color_cap2": "#ffffff",
+              "fz_cap2_lg": "25px",
+              "fz_cap2_1200": "22px",
+              "fz_cap2_md": "18px",
+              "fz_cap2_sm": "20px",
+              "fz_cap2_xs": "16px",
+              "cap_animate_2": "fadeInRight",
+              "caption_3": "",
+              "color_cap3": "#000000",
+              "fz_cap3_lg": "",
+              "fz_cap3_1200": "",
+              "fz_cap3_md": "",
+              "fz_cap3_sm": "",
+              "fz_cap3_xs": "",
+              "cap_animate_3": "bounce",
+              "caption_btn": "The Top Drawer",
+              "slider_link": "shopify:\/\/collections\/all",
+              "caption_btn2": "",
+              "slider_link2": "#",
+              "text_align": "left",
+              "width_position_xl": "100",
+              "width_position_lg": "100",
+              "width_position_md": "100",
+              "width_position_sm": "100",
+              "width_position_xs": "100",
+              "left_position_xl": "3",
+              "left_position_lg": "3",
+              "left_position_md": "3",
+              "left_position_sm": "0",
+              "left_position_xs": "0",
+              "top_position_xl": "13",
+              "top_position_lg": "13",
+              "top_position_md": "13",
+              "top_position_sm": "15",
+              "top_position_xs": "20"
+            }
+          }
+        },
+        "block_order": [
+          "1624431670a0cceffc-2"
+        ],
+        "settings": {
+          "autoplay": false,
+          "autoplay_speed": "5000",
+          "arrows": false,
+          "dots": false,
+          "has_fullwidth": true,
+          "class": "",
+          "distance_top": "0",
+          "distance_bottom": "0"
+        }
+      },
+      "16245256620995a555": {
+        "type": "nov-gallery-ins",
+        "disabled": true,
+        "blocks": {
+          "16245256620995a555-0": {
+            "type": "image",
+            "settings": {
+            }
+          },
+          "16245256620995a555-1": {
+            "type": "image",
+            "settings": {
+            }
+          },
+          "704e6a47-9bd3-4d28-b209-54178b48b6dc": {
+            "type": "title",
+            "settings": {
+              "title": "Follow Us",
+              "stitle": "@Radom",
+              "class": "flex-sm-first"
+            }
+          },
+          "16245256620995a555-2": {
+            "type": "image",
+            "settings": {
+            }
+          },
+          "16245256620995a555-3": {
+            "type": "image",
+            "settings": {
+            }
+          },
+          "16245256620995a555-4": {
+            "type": "image",
+            "settings": {
+            }
+          },
+          "16245256620995a555-5": {
+            "type": "image",
+            "settings": {
+            }
+          },
+          "9b530c17-fb91-4b28-8a5a-06bcdbb20184": {
+            "type": "image",
+            "settings": {
+            }
+          },
+          "c739e348-c10d-4dd3-ada2-50c0c54128e5": {
+            "type": "image",
+            "settings": {
+            }
+          },
+          "0726750e-aded-4781-b57f-67f97196933e": {
+            "type": "image",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "16245256620995a555-0",
+          "16245256620995a555-1",
+          "704e6a47-9bd3-4d28-b209-54178b48b6dc",
+          "16245256620995a555-2",
+          "16245256620995a555-3",
+          "16245256620995a555-4",
+          "16245256620995a555-5",
+          "9b530c17-fb91-4b28-8a5a-06bcdbb20184",
+          "c739e348-c10d-4dd3-ada2-50c0c54128e5",
+          "0726750e-aded-4781-b57f-67f97196933e"
+        ],
+        "settings": {
+          "title": "",
+          "subheading": "",
+          "title_alignment": "text-left",
+          "grid_number": 5,
+          "grid_number_lg": 5,
+          "grid_number_md": 5,
+          "grid_number_sm": 2,
+          "has_fullwidth": true,
+          "background_color": "",
+          "class": "",
+          "distance_top": "30px",
+          "distance_bottom": "0"
+        }
+      },
+      "164331777410ebef8d": {
+        "type": "nov-slideshow",
+        "blocks": {
+          "164331777410ebef8d-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/home-img1.jpg",
+              "caption_1": "",
+              "color_cap1": "#000000",
+              "fz_cap1_lg": "",
+              "fz_cap1_1200": "",
+              "fz_cap1_md": "",
+              "fz_cap1_sm": "",
+              "fz_cap1_xs": "",
+              "cap_animate_1": "bounce",
+              "caption_2": "",
+              "color_cap2": "#000000",
+              "fz_cap2_lg": "",
+              "fz_cap2_1200": "",
+              "fz_cap2_md": "",
+              "fz_cap2_sm": "",
+              "fz_cap2_xs": "",
+              "cap_animate_2": "bounce",
+              "caption_3": "",
+              "color_cap3": "#000000",
+              "fz_cap3_lg": "",
+              "fz_cap3_1200": "",
+              "fz_cap3_md": "",
+              "fz_cap3_sm": "",
+              "fz_cap3_xs": "",
+              "cap_animate_3": "bounce",
+              "caption_btn": "",
+              "slider_link": "",
+              "caption_btn2": "",
+              "slider_link2": "",
+              "text_align": "left",
+              "width_position_xl": "50",
+              "width_position_lg": "50",
+              "width_position_md": "50",
+              "width_position_sm": "50",
+              "width_position_xs": "50",
+              "left_position_xl": "50",
+              "left_position_lg": "20",
+              "left_position_md": "20",
+              "left_position_sm": "0",
+              "left_position_xs": "0",
+              "top_position_xl": "50",
+              "top_position_lg": "20",
+              "top_position_md": "50",
+              "top_position_sm": "50",
+              "top_position_xs": "50"
+            }
+          }
+        },
+        "block_order": [
+          "164331777410ebef8d-0"
+        ],
+        "settings": {
+          "autoplay": true,
+          "autoplay_speed": "5000",
+          "arrows": false,
+          "dots": true,
+          "has_fullwidth": false,
+          "class": "",
+          "distance_top": "30px",
+          "distance_bottom": "30px"
+        }
+      },
+      "1643318553adbbb35f": {
+        "type": "nov-products-slider",
+        "settings": {
+          "title": "The Top Drawer",
+          "subheading": "",
+          "title_alignment": "text-left",
+          "collection": "foundation-series",
+          "grid_number": 4,
+          "grid_number_lg": 4,
+          "grid_number_md": 4,
+          "grid_number_sm": 2,
+          "grid_number_xs": 1,
+          "limit": 30,
+          "show_view_all": true,
+          "number_row": "1",
+          "row_mobile": "1",
+          "nav_cust": false,
+          "show_nav": true,
+          "show_dot": false,
+          "has_fullwidth": false,
+          "background_color": "",
+          "class": "",
+          "distance_top": "30px",
+          "distance_bottom": "30px"
+        }
+      },
+      "16433194204052d5bd": {
+        "type": "nov-testimonials",
+        "blocks": {
+          "16433194204052d5bd-0": {
+            "type": "quote",
+            "settings": {
+              "star": 5,
+              "quote": "<p>These socks are sexy af.<\/p>",
+              "info_other": "- HARRY"
+            }
+          },
+          "16433194204052d5bd-1": {
+            "type": "quote",
+            "settings": {
+              "star": 5,
+              "quote": "<p>Legit an amazing fit. I normally rock another brand of athletic socks which I've loved but these are better.<\/p>",
+              "info_other": "- JACK"
+            }
+          },
+          "16433194204052d5bd-2": {
+            "type": "quote",
+            "settings": {
+              "star": 5,
+              "quote": "<p>I'm on my feet all day and these socks are my go to!<\/p>",
+              "info_other": "- LIBBY"
+            }
+          }
+        },
+        "block_order": [
+          "16433194204052d5bd-0",
+          "16433194204052d5bd-1",
+          "16433194204052d5bd-2"
+        ],
+        "settings": {
+          "title": "These people weren&rsquo;t even paid to say these things:",
+          "title_c": "#000000",
+          "subheading": "",
+          "title_alignment": "text-center",
+          "show_nav": false,
+          "spacing": "",
+          "s_star": false,
+          "show_avatar": false,
+          "color_t": "#222222",
+          "full_width": false,
+          "background_color": "",
+          "class": "mt-40 mt-md-30 mt-xs-30 mb-60 mb-md-30 mb-xs-30",
+          "distance_top": "",
+          "distance_bottom": ""
+        }
+      },
+      "nov-page-regular": {
+        "type": "nov-page-regular",
+        "blocks": {
+          "07a69bef-057a-49fb-ac83-390475cc3cca": {
+            "type": "image_text",
+            "settings": {
+              "img": "shopify:\/\/shop_images\/forward_thinking-image.jpg",
+              "text_content": "<p class=\"mb-4\">You’ll see this on our packaging from the sock-tags, the bags and shipping packages. <strong>Gym Sock<\/strong> is committed to sustainability and recognize we do not inherit the earth from our ancestors but borrow it from our children.<\/p>\n\n<p>It’s why our socks are made to last.... sure that may not help us sell you more and more but, at least we can go to sleep every night knowing in some small way we are collectively contributing to the solution and not adding to the problem.<\/p>",
+              "class": "mt-80 mt-xs-40"
+            }
+          }
+        },
+        "block_order": [
+          "07a69bef-057a-49fb-ac83-390475cc3cca"
+        ],
+        "settings": {
+          "title": "“I’m totally recyclable”.",
+          "subheading": ""
+        }
+      },
+      "nov-page-shipping": {
+        "type": "nov-page-shipping",
+        "settings": {
+          "title": "Shipping.",
+          "subheading": "",
+          "content": "<p>This really does depend on where you live. The shipping estimates below will give you an idea of when you (and your feet) should expect your Gym Socks so you can plan celebrations accordingly.<br\/><br\/><em>Australian Domestic<\/em> Typically 2-4 business days. However, due to COVID-19, Australian orders may take up to a week.<br\/><em>New Zealand<\/em> Typically 6-10 business days. However, due to COVID-19, NZ orders may take up to two weeks.<br\/><em>All other international customers:<\/em> Typically 10-14 business days. However, due to COVID-19, international orders may take up to four weeks.<\/p>"
+        }
+      },
+      "nov-page-privacy": {
+        "type": "nov-page-privacy",
+        "settings": {
+          "title": "Privacy.",
+          "subheading": ""
+        }
+      },
+      "nov-page-refund": {
+        "type": "nov-page-refund",
+        "settings": {
+          "title": "Refund",
+          "subheading": "",
+          "content": "<p>We will give you a 30 day money-back guarantee from the time you receive the goods in the (unbelievable case) that you are not 100% satisfied with the goods. Please email us at <a href=\"mailto:hello@gymsock.com\">hello@gymsock.com<\/a> within that time if you are not satisfied with your purchase so that we can resolve any issues. Please note that the product not helping you beat a great white shark in a swimming race will not be viewed as a legitimate reason for a refund. ..don’t even try this in the first place.<br\/><br\/>We recommend that you return the product via Registered Post and that you pre pay all postage. You assume any risk of lost, theft or damaged goods during transit and therefore we advise you insure your parcel.<br\/><br\/>Gym Sock will not be responsible for parcels lost or damaged in transit if you choose not to insure.<\/p><p><br\/>To organise a return, please shoot an email to our customer service guru’s via <a href=\"mailto:hello@gymsock.com\">hello@gymsock.com<\/a><\/p>"
+        }
+      },
+      "nov-page-tos": {
+        "type": "nov-page-tos",
+        "blocks": {
+          "1230f180-828a-439c-a397-fa8ffc9584cd": {
+            "type": "faq",
+            "settings": {
+              "item_title": "OVERVIEW",
+              "item_content": "This website is operated by The Gym Sock. Throughout the site, the terms “we”, “us” and “our” refer to The Gym Sock. The Gym Sock offers this website, including all information, tools and Services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.\n<br><br>\nBy visiting our site and\/ or purchasing something from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and\/or available by hyperlink. These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and\/ or contributors of content.\n<br><br>\nPlease read these Terms of Service carefully before accessing or using our website. By accessing or using any part of the site, you agree to be bound by these Terms of Service. If you do not agree to all the terms and conditions of this agreement, then you may not access the website or use any Services. If these Terms of Service are considered an offer, acceptance is expressly limited to these Terms of Service.\n<br><br>\nAny new features or tools which are added to the current store shall also be subject to the Terms of Service. You can review the most current version of the Terms of Service at any time on this page. We reserve the right to update, change or replace any part of these Terms of Service by posting updates and\/or changes to our website. It is your responsibility to check this page periodically for changes. Your continued use of or access to the website following the posting of any changes constitutes acceptance of those changes.\n<br><br>\nOur store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and Services to you."
+            }
+          },
+          "df801523-5cb0-4d31-a081-8b40a8113561": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 1 - ONLINE STORE TERMS",
+              "item_content": "By agreeing to these Terms of Service, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.\nYou may not use our products for any illegal or unauthorized purpose nor may you, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws).\nYou must not transmit any worms or viruses or any code of a destructive nature.\nA breach or violation of any of the Terms will result in an immediate termination of your Services."
+            }
+          },
+          "710e9c1d-974e-4071-b3d4-112d0caf9e5c": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 2 - GENERAL CONDITIONS",
+              "item_content": "We reserve the right to refuse Service to anyone for any reason at any time.\nYou understand that your content (not including credit card information), may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Credit card information is always encrypted during transfer over networks.\nYou agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service or any contact on the website through which the Service is provided, without express written permission by us.\nThe headings used in this agreement are included for convenience only and will not limit or otherwise affect these Terms."
+            }
+          },
+          "95a35b2d-8a71-42d9-b024-f679554701c2": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 3 - ACCURACY, COMPLETENESS AND TIMELINESS OF INFORMATION",
+              "item_content": "We are not responsible if information made available on this site is not accurate, complete or current. The material on this site is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. Any reliance on the material on this site is at your own risk.\nThis site may contain certain historical information. Historical information, necessarily, is not current and is provided for your reference only. We reserve the right to modify the contents of this site at any time, but we have no obligation to update any information on our site. You agree that it is your responsibility to monitor changes to our site."
+            }
+          },
+          "1b201f16-ae65-466a-b574-ea6881215c94": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 4 - MODIFICATIONS TO THE SERVICE AND PRICES",
+              "item_content": "Prices for our products are subject to change without notice.\nWe reserve the right at any time to modify or discontinue the Service (or any part or content thereof) without notice at any time.\nWe shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service."
+            }
+          },
+          "3845701c-a6c2-44fb-8a65-d0f4dbecb0fc": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 5 - PRODUCTS OR SERVICES (if applicable)",
+              "item_content": "Certain products or Services may be available exclusively online through the website. These products or Services may have limited quantities and are subject to return or exchange only according to our Refund Policy: https:\/\/www.gymsock.com\/pages\/refund\nWe have made every effort to display as accurately as possible the colors and images of our products that appear at the store. We cannot guarantee that your computer monitor's display of any color will be accurate.\nWe reserve the right, but are not obligated, to limit the sales of our products or Services to any person, geographic region or jurisdiction. We may exercise this right on a case-by-case basis. We reserve the right to limit the quantities of any products or Services that we offer. All descriptions of products or product pricing are subject to change at anytime without notice, at the sole discretion of us. We reserve the right to discontinue any product at any time. Any offer for any product or Service made on this site is void where prohibited.\nWe do not warrant that the quality of any products, Services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected."
+            }
+          },
+          "5107d617-2d01-4983-be07-1d2a196408c8": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 6 - ACCURACY OF BILLING AND ACCOUNT INFORMATION",
+              "item_content": "We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order. These restrictions may include orders placed by or under the same customer account, the same credit card, and\/or orders that use the same billing and\/or shipping address. In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e‑mail and\/or billing address\/phone number provided at the time the order was made. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers or distributors.\n<br><br>\nYou agree to provide current, complete and accurate purchase and account information for all purchases made at our store. You agree to promptly update your account and other information, including your email address and credit card numbers and expiration dates, so that we can complete your transactions and contact you as needed.\n<br><br>\nFor more details, please review our Refund Policy."
+            }
+          },
+          "bdf9cfb7-7780-410b-9159-3bcf52f3ef1e": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 7 - OPTIONAL TOOLS",
+              "item_content": "We may provide you with access to third-party tools over which we neither monitor nor have any control nor input.\nYou acknowledge and agree that we provide access to such tools ”as is” and “as available” without any warranties, representations or conditions of any kind and without any endorsement. We shall have no liability whatsoever arising from or relating to your use of optional third-party tools.\nAny use by you of the optional tools offered through the site is entirely at your own risk and discretion and you should ensure that you are familiar with and approve of the terms on which tools are provided by the relevant third-party provider(s).\nWe may also, in the future, offer new Services and\/or features through the website (including the release of new tools and resources). Such new features and\/or Services shall also be subject to these Terms of Service."
+            }
+          },
+          "bd0d3b27-5801-44ab-863f-3d14ec4c4498": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 8 - THIRD-PARTY LINKS",
+              "item_content": "Certain content, products and Services available via our Service may include materials from third-parties.\nThird-party links on this site may direct you to third-party websites that are not affiliated with us. We are not responsible for examining or evaluating the content or accuracy and we do not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or Services of third-parties.\nWe are not liable for any harm or damages related to the purchase or use of goods, Services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party's policies and practices and make sure you understand them before you engage in any transaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third-party."
+            }
+          },
+          "08f47c86-28f5-4c2c-b412-d6b1a4a0f9fb": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 9 - USER COMMENTS, FEEDBACK AND OTHER SUBMISSIONS",
+              "item_content": "If, at our request, you send certain specific submissions (for example contest entries) or without a request from us, you send creative ideas, suggestions, proposals, plans, or other materials, whether online, by email, by postal mail, or otherwise (collectively, 'comments'), you agree that we may, at any time, without restriction, edit, copy, publish, distribute, translate and otherwise use in any medium any comments that you forward to us. We are and shall be under no obligation (1) to maintain any comments in confidence; (2) to pay compensation for any comments; or (3) to respond to any comments.\nWe may, but have no obligation to, monitor, edit or remove content that we determine in our sole discretion to be unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.\nYou agree that your comments will not violate any right of any third-party, including copyright, trademark, privacy, personality or other personal or proprietary right. You further agree that your comments will not contain libelous or otherwise unlawful, abusive or obscene material, or contain any computer virus or other malware that could in any way affect the operation of the Service or any related website. You may not use a false e‑mail address, pretend to be someone other than yourself, or otherwise mislead us or third-parties as to the origin of any comments. You are solely responsible for any comments you make and their accuracy. We take no responsibility and assume no liability for any comments posted by you or any third-party."
+            }
+          },
+          "58f5460a-f4a8-49d9-8b4c-beca39088722": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 10 - PERSONAL INFORMATION",
+              "item_content": "Your submission of personal information through the store is governed by our Privacy Policy, which can be viewed here: https:\/\/www.gymsock.com\/pages\/privacy-policy"
+            }
+          },
+          "87adf7b3-9025-45e8-ad8a-dd814f9b3a21": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 11 - ERRORS, INACCURACIES AND OMISSIONS",
+              "item_content": "Occasionally there may be information on our site or in the Service that contains typographical errors, inaccuracies or omissions that may relate to product descriptions, pricing, promotions, offers, product shipping charges, transit times and availability. We reserve the right to correct any errors, inaccuracies or omissions, and to change or update information or cancel orders if any information in the Service or on any related website is inaccurate at any time without prior notice (including after you have submitted your order).\nWe undertake no obligation to update, amend or clarify information in the Service or on any related website, including without limitation, pricing information, except as required by law. No specified update or refresh date applied in the Service or on any related website, should be taken to indicate that all information in the Service or on any related website has been modified or updated."
+            }
+          },
+          "f868bb72-2114-406a-a1b7-74a50c91156a": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 12 - PROHIBITED USES",
+              "item_content": "In addition to other prohibitions as set forth in the Terms of Service, you are prohibited from using the site or its content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet. We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses."
+            }
+          },
+          "431cea8b-9340-4fc6-9a1f-9d51e40bef2f": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 13 - DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY",
+              "item_content": "We do not guarantee, represent or warrant that your use of our Service will be uninterrupted, timely, secure or error-free.\nWe do not warrant that the results that may be obtained from the use of the Service will be accurate or reliable.\nYou agree that from time to time we may remove the Service for indefinite periods of time or cancel the Service at any time, without notice to you.\nYou expressly agree that your use of, or inability to use, the Service is at your sole risk. The Service and all products and Services delivered to you through the Service are (except as expressly stated by us) provided 'as is' and 'as available' for your use, without any representation, warranties or conditions of any kind, either express or implied, including all implied warranties or conditions of merchantability, merchantable quality, fitness for a particular purpose, durability, title, and non-infringement.\nIn no case shall The Gym Sock, our directors, officers, employees, affiliates, agents, contractors, interns, suppliers, Service providers or licensors be liable for any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation lost profits, lost revenue, lost savings, loss of data, replacement costs, or any similar damages, whether based in contract, tort (including negligence), strict liability or otherwise, arising from your use of any of the Service or any products procured using the Service, or for any other claim related in any way to your use of the Service or any product, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the Service or any content (or product) posted, transmitted, or otherwise made available via the Service, even if advised of their possibility. Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, our liability shall be limited to the maximum extent permitted by law."
+            }
+          },
+          "ae370833-3cab-4ecd-860b-2861c57e549b": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 14 - INDEMNIFICATION",
+              "item_content": "You agree to indemnify, defend and hold harmless The Gym Sock and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, Service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party."
+            }
+          },
+          "1f4965a4-15bb-4482-9105-75184e35f3e0": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 15 - SEVERABILITY",
+              "item_content": "In the event that any provision of these Terms of Service is determined to be unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms of Service, such determination shall not affect the validity and enforceability of any other remaining provisions."
+            }
+          },
+          "6f242425-bf76-4d90-8baa-3ba9ea837a4d": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 16 - TERMINATION",
+              "item_content": "The obligations and liabilities of the parties incurred prior to the termination date shall survive the termination of this agreement for all purposes.\nThese Terms of Service are effective unless and until terminated by either you or us. You may terminate these Terms of Service at any time by notifying us that you no longer wish to use our Services, or when you cease using our site.\nIf in our sole judgment you fail, or we suspect that you have failed, to comply with any term or provision of these Terms of Service, we also may terminate this agreement at any time without notice and you will remain liable for all amounts due up to and including the date of termination; and\/or accordingly may deny you access to our Services (or any part thereof)."
+            }
+          },
+          "23bfae18-be14-4be3-824e-6fcea7f1884f": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 17 - ENTIRE AGREEMENT",
+              "item_content": "The failure of us to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision.\nThese Terms of Service and any policies or operating rules posted by us on this site or in respect to the Service constitutes the entire agreement and understanding between you and us and governs your use of the Service, superseding any prior or contemporaneous agreements, communications and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms of Service).\nAny ambiguities in the interpretation of these Terms of Service shall not be construed against the drafting party."
+            }
+          },
+          "feacf75a-41c0-4f2f-a71f-d3009eec3f82": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 18 - GOVERNING LAW",
+              "item_content": "These Terms of Service and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of Australia."
+            }
+          },
+          "99382b6f-e34e-49ff-9bac-59af19d7b43c": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 19 - CHANGES TO TERMS OF SERVICE",
+              "item_content": "You can review the most current version of the Terms of Service at any time at this page.\nWe reserve the right, at our sole discretion, to update, change or replace any part of these Terms of Service by posting updates and changes to our website. It is your responsibility to check our website periodically for changes. Your continued use of or access to our website or the Service following the posting of any changes to these Terms of Service constitutes acceptance of those changes."
+            }
+          },
+          "f968fffd-813d-4e1f-965e-5a9cd9598f4b": {
+            "type": "faq",
+            "settings": {
+              "item_title": "SECTION 20 - CONTACT INFORMATION",
+              "item_content": "Questions about the Terms of Service should be sent to us at hello@gymsock.com.<br>\nOur contact information is posted below:<br>\nGym Sock<br>\nhello@gymsock.com<br>\n34 Austral Terrace, MORPHETTVILLE, SA 5043<br>\n0434 960 516<br>\nABN .19 940 531 913<br>"
+            }
+          }
+        },
+        "block_order": [
+          "1230f180-828a-439c-a397-fa8ffc9584cd",
+          "df801523-5cb0-4d31-a081-8b40a8113561",
+          "710e9c1d-974e-4071-b3d4-112d0caf9e5c",
+          "95a35b2d-8a71-42d9-b024-f679554701c2",
+          "1b201f16-ae65-466a-b574-ea6881215c94",
+          "3845701c-a6c2-44fb-8a65-d0f4dbecb0fc",
+          "5107d617-2d01-4983-be07-1d2a196408c8",
+          "bdf9cfb7-7780-410b-9159-3bcf52f3ef1e",
+          "bd0d3b27-5801-44ab-863f-3d14ec4c4498",
+          "08f47c86-28f5-4c2c-b412-d6b1a4a0f9fb",
+          "58f5460a-f4a8-49d9-8b4c-beca39088722",
+          "87adf7b3-9025-45e8-ad8a-dd814f9b3a21",
+          "f868bb72-2114-406a-a1b7-74a50c91156a",
+          "431cea8b-9340-4fc6-9a1f-9d51e40bef2f",
+          "ae370833-3cab-4ecd-860b-2861c57e549b",
+          "1f4965a4-15bb-4482-9105-75184e35f3e0",
+          "6f242425-bf76-4d90-8baa-3ba9ea837a4d",
+          "23bfae18-be14-4be3-824e-6fcea7f1884f",
+          "feacf75a-41c0-4f2f-a71f-d3009eec3f82",
+          "99382b6f-e34e-49ff-9bac-59af19d7b43c",
+          "f968fffd-813d-4e1f-965e-5a9cd9598f4b"
+        ],
+        "settings": {
+          "title": "Terms of Service",
+          "subheading": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1624431670a0cceffc",
+      "1643318553adbbb35f",
+      "16245256620995a555",
+      "164331777410ebef8d",
+      "16433194204052d5bd"
+    ]
+  },
+  "presets": {
+  }
+}

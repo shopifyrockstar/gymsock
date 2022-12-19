@@ -1,0 +1,17 @@
+{
+  "sections": {
+    "main": {
+      "type": "collection-template",
+      "settings": {
+        "title": "The Top Drawer",
+        "subheading": "",
+        "products_per_page": 12,
+        "sort_enable": false,
+        "show_tags": true
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
