@@ -192,6 +192,7 @@ var ajaxCart = (function(module, $) {
         buildCart(cart);
     };
     buildCart = function(cart) {
+        console.log('called the buildCart function');
         $cartContainer.empty();
         if (cart.item_count === 0) {
             $cartContainer.append('<p class="cart empty">' + "Your cart is currently empty." + '</p>');

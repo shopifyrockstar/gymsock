@@ -64,7 +64,7 @@
         "bfs_title": "Foundation Series",
         "bfs_description": "Harry caught the golden snitch riding a sweet Nimbus 2000. What will you catch in your grey colour way Nimbus socks? New bench PB? Fastest ever mile?",
         "show_notes": false,
-        "show_quantity_selector": false,
+        "show_quantity_selector": true,
         "product_swatch_enable": true,
         "show_share": false,
         "show_variant_color": true,

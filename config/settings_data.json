@@ -43,7 +43,7 @@
     "type_sidebar_article": "sidebar_left",
     "type_sidebar": "sidebar_hidden",
     "type_sidebar_product": "thumb_all",
-    "show_newsletter_popup": true,
+    "show_newsletter_popup": false,
     "title_newsletter": "Newsletter",
     "desc_newsletter": "Just reminders for Fathers Day. Christmas and the occasional sale.",
     "button_newsletter": "",
@@ -74,7 +74,7 @@
     "payment_button_enable": false,
     "img_size": "425x",
     "img_size_large": "260x",
-    "freeshipping_enable": true,
+    "freeshipping_enable": false,
     "size_women": "shopify:\/\/shop_images\/size-guide.png",
     "size_men": "shopify:\/\/shop_images\/size-guide.png",
     "cart_notes_enable": true,
@@ -91,7 +91,7 @@
     "account_type": "canvas",
     "img_canvas_account": "shopify:\/\/shop_images\/logo.png",
     "img_canvas_account_link": "#",
-    "favicon": "shopify:\/\/shop_images\/logo.png",
+    "favicon": "shopify:\/\/shop_images\/gymsock-new-logo.png",
     "checkout_header_image": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/logo.png",
     "checkout_logo_position": "left",
@@ -1085,7 +1085,7 @@
             "type": "faq",
             "settings": {
               "item_title": "Can I change or cancel my order once I've placed it?",
-              "item_content": "<p>If you’ve made a mistake with your order or need to change something, please email hello@gymsock.com with your order details as soon as possible and we will try and help. Unfortunately once the order has been processed, it's yours. However, please check our returns and refunds policy <a href=\"#\"><u><strong>here<\/strong><\/u><\/a>.<\/p>"
+              "item_content": "<p>If you’ve made a mistake with your order or need to change something, please email hello@gymsock.com with your order details as soon as possible and we will try and help. Unfortunately once the order has been processed, it's yours. However, please check our returns and refunds policy <a href=\"\/pages\/refund\"><u><strong>here<\/strong><\/u><\/a>.<\/p>"
             }
           },
           "1600049150025": {
@@ -1822,8 +1822,8 @@
           "07a69bef-057a-49fb-ac83-390475cc3cca": {
             "type": "image_text",
             "settings": {
-              "img": "shopify:\/\/shop_images\/forward_thinking-image.jpg",
-              "text_content": "<p class=\"mb-4\">You’ll see this on our packaging from the sock-tags, the bags and shipping packages. <strong>Gym Sock<\/strong> is committed to sustainability and recognize we do not inherit the earth from our ancestors but borrow it from our children.<\/p>\n\n<p>It’s why our socks are made to last.... sure that may not help us sell you more and more but, at least we can go to sleep every night knowing in some small way we are collectively contributing to the solution and not adding to the problem.<\/p>",
+              "img": "shopify:\/\/shop_images\/gym_sock_forward.png",
+              "text_content": "<p class=\"mb-4\">Emblazoned on the toe of each awesome pair of <strong>Gym Socks<\/strong>  is the word <strong>forward<\/strong>. It is our simple yet powerful ethos. A reminder in all things we do to put our best foot <strong>forward <\/strong>. <\/p>\n\n<p class=\"mb-4\"> On all of our packaging from sock tags, bags and shipping packages we are committed to sustainability. <strong>Gym Sock<\/strong> recognises that we do not inherit the earth from our ancestors but borrow it from our children. <strong>Forward<\/strong> thinking. <\/p>\n\n<p class=\"mb-4\"> It’s why our socks are made to last. Sure that may not help us sell you more socks but at least we can go to sleep every night knowing in some small way we are collectively contributing to the solution and not adding to the problem. <\/p>\n\n<p class=\"mb-4\"><strong> Forward <\/strong> is the message you read as you slip on your <strong> Gym Socks <\/strong> for a 4am run when all you want to do is to curl back up under the blanket. It’s a reminder that if you've still got air in your lungs and a heart beating in your chest, you're alive.<\/p> \n\n<p> So whatever your day has in store, remember each step <strong>forward<\/strong> you take is one toward your preferred future.<\/p>",
               "class": "mt-80 mt-xs-40"
             }
           }
@@ -1832,7 +1832,7 @@
           "07a69bef-057a-49fb-ac83-390475cc3cca"
         ],
         "settings": {
-          "title": "“I’m totally recyclable”.",
+          "title": "“Forward”.",
           "subheading": ""
         }
       },

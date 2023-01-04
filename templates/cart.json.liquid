@@ -40,11 +40,12 @@
               {% endif %}
            	</div>
             
-            <span class="product-price">
+            <span class="product-price {% if item.original_line_price != item.line_price %}initial-discount-added{% endif %}">
               {% if item.original_line_price != item.line_price %}
               <small class="ajaxcart-item__price-strikethrough"><s>{{ item.original_line_price | money }}</s></small>
               <br><span class="money">{{ item.line_price | money }}</span>
               {% else %}
+              <span class="money">{{ item.discounted_price | money }}</span>
               <span class="money">{{ item.line_price | money }}</span>
               {% endif %}
             </span>
@@ -88,12 +89,14 @@
       <label>{{ 'cart.general.total' | t }}&nbsp;:</label>
       <span class="money">{{ cart.total_price | money }}</span>
     </div>
-    {% if cart.total_discount > 0 %}
+
+    {% comment %} {% if cart.total_discount > 0 %}
     <div class="total d-flex align-items-center">
       <label>{{ 'cart.general.total' | t }}&nbsp;:</label>
       <span class="money">{{ cart.total_discount | money }}</span>
     </div>
-    {% endif %}
+    {% endif %} {% endcomment %}
+
     <div class="d-flex justify-content-center flex-column-reverse">
       <a href="/cart" class="btn btn-success">
         <span>{{ 'cart.general.view_cart' | t }}</span>
