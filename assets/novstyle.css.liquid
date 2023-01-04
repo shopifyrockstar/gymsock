@@ -21506,11 +21506,14 @@ hr {
 }
 
 #cart-info .product-price.discount-added{
-    display: block;
-    text-decoration: line-through;
+    display: block;    
 }
 #cart-info .product-discounted-price, .initial-discount-added .money{
     color:#dc2323;
     font-size: 14px;
     font-weight: normal;
+    text-decoration: line-through;
+}
+.initial-discount-added .ajaxcart-item__price-strikethrough s{
+    text-decoration: unset;
 }
