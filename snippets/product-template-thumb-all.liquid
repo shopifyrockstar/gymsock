@@ -307,6 +307,30 @@
                     {% endif %}
                   </button>
                 </div>
+                <div class="product-info_dealbox">
+                  <div class="dealbox">
+                    <div>BUY ANY 3<br>
+                      
+                      <span class="savings" style="color: yellow; font-weight: 800; font-size: 22px; line-height: 24px;">
+                        SAVE $6</span>
+                      <br>
+                      $13 EACH
+                    </div>
+                    <div>BUY ANY 6<br>
+                
+                      <span class="savings" style="color: yellow; font-weight: 800; font-size: 22px; line-height: 24px;">
+                        SAVE $24</span>
+                      <br>
+                      $11 EACH</div>
+
+                    <div class="thirdOption">BUY ANY 10<br>
+                
+                      <span class="savings" style="color: yellow; font-weight: 800; font-size: 22px;     line-height: 24px;">
+                        SAVE $50</span><br>
+                      $10 EACH
+                    </div>
+                  </div>
+                </div>
                 {% if settings.payment_button_enable %}
                   <div class="product-form__item product-form__item--checkout"{% if current_variant.available == false %} disabled{% endif %}>
                     {% form 'product', product, class:form_classes, novalidate: 'novalidate', data-product-form: '' %}

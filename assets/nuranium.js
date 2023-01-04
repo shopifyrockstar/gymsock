@@ -477,9 +477,9 @@
             e.preventDefault();
             var $this = $(this),
                 variant_id = $this.data('pid');
-            $this.addClass('btn-loading');
-            $this.parent().addClass('fix_nt_tt');
-            $( 'body' ).addClass('loading');
+            // $this.addClass('btn-loading');
+            // $this.parent().addClass('fix_nt_tt');
+            // $( 'body' ).addClass('loading');
             
             $.ajax({
               type: 'POST',
@@ -527,39 +527,44 @@
               $( '#jas-wrapper' ).after( '<div class="loader"><div class="loader-inner"></div></div>' );
             },
             success: function(data) {
-              $.magnificPopup.open({
-                items: {
-                  src: '<div class="nov-with-anim product-quickview popup-quick-view cart__popup cart__popup_upsell"><div id="content_cart__popup_nt">' + data + '</div></div>',
-                  type: 'inline'
-                },
-                removalDelay: 500,
-                        closeMarkup: '<i class="zmdi zmdi-hc-fw zmdi-close"></i>',
-                callbacks: {
-                  beforeOpen: function() {
-                    this.st.mainClass = 'nov-move-horizontal';
-                  },
-                  open: function() {
-                    nuranium.PopupAddToCart();
-                    nuranium.initQuickVariants();
-                    Currency.convertAll(shopCurrency, $('#currencies span.selected').attr('data-currency'));
-                  },
-                  change: function() { },
-                  close: function() {
-                    if($('body').hasClass('template-cart')) {
-                      window.location.reload();
-                    }
-                    else {
-                      $('body').removeClass('cart_popup_opened');
-                      $('body').removeClass('open_quick_variants');
-                      $('body').removeClass('loading');
-                      $('#content_cart__popup_nt').empty();
-                    }
-                  }
-                },
-              });
+              // $.magnificPopup.open({
+              //   items: {
+              //     src: '<div class="nov-with-anim product-quickview popup-quick-view cart__popup cart__popup_upsell"><div id="content_cart__popup_nt">' + data + '</div></div>',
+              //     type: 'inline'
+              //   },
+              //   removalDelay: 500,
+              //           closeMarkup: '<i class="zmdi zmdi-hc-fw zmdi-close"></i>',
+              //   callbacks: {
+              //     beforeOpen: function() {
+              //       this.st.mainClass = 'nov-move-horizontal';
+              //     },
+              //     open: function() {
+              //       nuranium.PopupAddToCart();
+              //       nuranium.initQuickVariants();
+              //       Currency.convertAll(shopCurrency, $('#currencies span.selected').attr('data-currency'));
+              //     },
+              //     change: function() { },
+              //     close: function() {
+              //       if($('body').hasClass('template-cart')) {
+              //         window.location.reload();
+              //       }
+              //       else {
+              //         $('body').removeClass('cart_popup_opened');
+              //         $('body').removeClass('open_quick_variants');
+              //         $('body').removeClass('loading');
+              //         $('#content_cart__popup_nt').empty();
+              //       }
+              //     }
+              //   },
+              // });
+              $('body').removeClass('cart_popup_opened');
+              $('body').removeClass('open_quick_variants');
+              $('body').removeClass('loading');
+              $('#_desktop_cart').addClass('active');
+              $('.sidebar-overlay').addClass('act');              
             },
             complete: function() {
-              nuranium.PopupAddToCart();
+              // nuranium.PopupAddToCart();
               Currency.convertAll(shopCurrency, $('#currencies span.selected').attr('data-currency'));
               $('.loader').remove();
             },
@@ -731,6 +736,7 @@
               for (var i = 0; i < cart.items.length; i++) {
                 var image = Shopify.resizeImage(cart.items[i].image, 'small');
                 var price = Shopify.formatMoney(cart.items[i].price, theme.moneyFormat);
+                var discounted_price = Shopify.formatMoney(cart.items[i].discounted_price, theme.moneyFormat);
                 
                 html += '<div class="ajaxcart__product" data-line="'+i+'">';
                 html += '<div class="media">';
@@ -742,7 +748,13 @@
                     html += '<span class="bt_s">'+cart.items[i].variant_title+'</span>';
                 html += '</a>';
                 html += '<div class="mb-5"></div>';
-                html += '<span class="product-price"><span class="money">'+price+'</span></span>';
+                
+                if ( cart.items[i].price > cart.items[i].discounted_price ){
+                  html += '<span class="product-price discount-added"><span class="money">'+price+'</span></span>';
+                  html += '<span class="product-discounted-price"><span class="discounted-money">'+discounted_price+'</span></span>';
+                }else{
+                  html += '<span class="product-price"><span class="money">'+price+'</span></span>';
+                }                
                 html += '<span class="quantity"> x '+cart.items[i].quantity+'</span>';
                 html += '<a class="remove-from-cart" rel="nofollow" href="#" title="remove from cart" data-line="'+i+'" data-product-id="'+cart.items[i].id+'"><i class="fa fa-trash-o" aria-hidden="true"></i></a>';
                 html += '</div>';
